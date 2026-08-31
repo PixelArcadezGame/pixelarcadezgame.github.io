@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pixelarcadezgame.github.io/sitemap.xml
+Sitemap: https://pixelarcadezgame.github.io/sitemap.txt

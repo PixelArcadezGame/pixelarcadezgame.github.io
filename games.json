@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "peg-solitaire",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/300.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "sigma-boy-musical-clicker",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/301.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "push-the-frog",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/302.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-war",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/303.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-town-billionaire",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/304.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "jewel-legend-quest",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/305.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gate-heroes-battle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/306.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "hard-rock-zombie-truck",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/307.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "pet-runner",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/308.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "magic-tiles-3",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/309.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "beauty-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/310.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "squid-sprunki-slither-game-2",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/311.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "highway-bus-rush",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/312.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "cap",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/313.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "heroic-knight",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/314.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "combine-pickaxes",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/315.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "blossom",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/316.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "tip-tap",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/317.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "halloween-fruit-slice",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/318.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sword-and-spin",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/319.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pool-bubbles",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/320.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tobinin",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/321.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "obby-escape-from-tsunami-brainrot",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/322.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "archery-ragdoll",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/323.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "skate-hooligans",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/324.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "cupid-unchained",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/325.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pin-master-screw-puzzle-quest-brain-games",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/326.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "doomsday-tower-defense",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/327.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "block-dropping-merge",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/328.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "stack-sorting",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/329.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "telekinesis-attack",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/330.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "fill-the-bottle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/331.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "candy-match-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/332.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "screw-jam",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/333.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "dog-merge-mania",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/334.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "granny-returns-3d-evil-destiny",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/335.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "epic-car-stunt-race-obby",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/336.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "sudoku-guru-classic-sudoku",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/337.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fruit-goals-match",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/338.webp",
+    "genre": "Agility, Match-3"
+  },
+  {
+    "id": "crazy-bus-station",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/339.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "royal-coin-rush",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/340.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "parking-frenzy",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/341.webp",
+    "genre": "Puzzle, Racing & Driving"
+  },
+  {
+    "id": "mojicon-garden-jigsolitaire",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/342.webp",
+    "genre": "Jigsaw"
+  },
+  {
+    "id": "pim-path",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/343.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "magic-printer",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/344.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "from-zombie-to-glam-a-spooky-transformation",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/345.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "dino-hunter-king",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/346.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "roblo-x-zombie",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/347.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "liquid-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/348.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "4-hexa",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/349.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "panda-lu-treehouse",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/350.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "lost-adventure",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/351.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "from-nerd-to-popular-ballerina-cappuccina",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/352.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "mahjong-four-rivers",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/353.webp",
+    "genre": "Cards, Mahjong & Connect"
+  },
+  {
+    "id": "tailor-stylist-fashion-diary",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/354.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "domino-smash-3d",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/355.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "gravity-matcher",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/356.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bow-and-arrow",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/357.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "family-tree-emoji",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/358.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hippo-supermarket",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/359.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "snowboard-game-party",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/360.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "bffs-spring-break-fashionista",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/361.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "brainrots-lava-survive-online",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/362.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "troll-the-teacher",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/363.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "space-cleaner",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/364.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "car-mechanic-simulator-2025",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/365.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "acox-runner",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/366.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wordmix",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/367.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "russian-checkers",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/368.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "cat-challenge",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/369.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "springle-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/370.webp",
+    "genre": "Jigsaw"
+  },
+  {
+    "id": "mahjong-connect-tiles",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/371.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "hexa-tap-away",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/372.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "find-the-ghost-cat",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/373.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hero-story-monsters-crossing",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/374.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "screw-puzzle-master",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/375.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "panda-dash-auto-shooting",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/376.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "battle-shot-elite",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/377.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "sweetsu-tile-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/378.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "tap-go-deluxe",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/379.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "revoxel-3d-voxel-rpg-shooter",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/380.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "racing-in-city",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/381.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "hamstercycle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/382.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "road-of-fury-4",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/383.webp",
+    "genre": "Racing & Driving, Shooter"
+  },
+  {
+    "id": "bubble-shooter-classic",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/384.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pumpkin-catcher",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/385.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "horror-hotel-scary-room",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/386.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "crash-the-robot",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/387.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "3d-chess-master",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/388.webp",
+    "genre": "Boardgames, Strategy"
+  },
+  {
+    "id": "ball-sort",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/389.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-christmas",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/390.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "flower-collection",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/391.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "dollys-restaurant-organizing",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/392.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "zombie-mission-survivor",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/393.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "zumbia-quest",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/394.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "moto-attack-bike-racing",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/395.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "cars-vs-zombies",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/396.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "black-pink-black-friday-fever",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/397.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "sprunki-memory-card-match",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/398.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "ninja-time",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/399.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mega-shark",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/400.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "ellie-and-friends-venice-carnival",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/401.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "squidgameio",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/402.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "light-bulb-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/403.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cyberpunk-city-hairstyles",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/404.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "geometry-arrow-2",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/405.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "find-goods",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/406.webp",
+    "genre": "Art, Casual"
+  },
+  {
+    "id": "off-road-overdrive",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/407.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "citymix-solitaire",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/408.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "asmr-pet-treatment",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/409.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "beat-the-zombies",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/410.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "chill-girl-clicker",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/411.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "cowboys-duel",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/412.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "poke-the-presidents",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/413.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "jewel-solitaire-tripeaks",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/414.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "hero-merge",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/415.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "capybara-xmas-merge",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/416.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stickman-mega-boss-battles",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/417.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "chicken-wild-run",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/418.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "volley-beans-volleyball-game",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/419.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "fairyland-merge-and-magic",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/420.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "chrome-cars-garage",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/421.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "royal-kitchen-the-lost-king",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/422.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "unblock-it-3d",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/423.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "geometry-vibes-x-arrow",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/424.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "world-cup-soccer-caps",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/425.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "kings-and-queens-match-2",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/426.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "cheerful-plumber",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/427.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "word-game-2026",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/428.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "klondike-solitaire",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/429.webp",
+    "genre": "Cards, Strategy"
+  },
+  {
+    "id": "2-player-battle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/430.webp",
+    "genre": "Battle, Boardgames"
+  },
+  {
+    "id": "avatar-make-up",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/431.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "adversator",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/432.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "animal-racing-idle-park",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/433.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stick-master-teleport",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/434.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "tower-defense-dragon-merge",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/435.webp",
+    "genre": "Strategy, Merge"
+  },
+  {
+    "id": "hero-ragdoll-fighting",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/436.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wild-tanks",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/437.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "easter-style-junction-egg-hunt-extravaganza",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/438.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "schoolboy-runaway-room-escape",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/439.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "brainrot-cleaning",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/440.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "galactic-crusade-clicker",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/441.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "harvesting-veggies",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/442.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fruity-craft-merge",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/443.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "1945-air-force-space-shooter",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/444.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bubble-shooter-crystal-hunt",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/445.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "asmr-beauty-treatment",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/446.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "snap-fix",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/447.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "k-pop-puzzle-hunters",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/448.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-shooter-legend",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/449.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "black-hole-beauty-makeup",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/450.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "football-stars-championship",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/451.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "dirty-them-all",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/452.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "bullet-superhero",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/453.webp",
+    "genre": "Puzzle, Shooter"
+  },
+  {
+    "id": "lipstick-collector-run",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/454.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "itilezen-sort-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/455.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "girly-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/456.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bbq-stack-run",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/457.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "genfire",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/458.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "fashion-valkyries-saga-of-style",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/459.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "murderers-vs-sheriffs-duels",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/460.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "teacher-simulator-christmas-exam",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/461.webp",
+    "genre": "Quiz, Simulation"
+  },
+  {
+    "id": "gross-out-run",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/462.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "ramp-bike-jumping",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/463.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "solitaire-lamour",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/464.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "lorenzo-the-runner",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/465.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "headleg-dash-parkour",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/466.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mental-hospital-escape",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/467.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "tower-defenders",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/468.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "99-balls",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/469.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mysterious-familiars-enchanted-bestiary",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/470.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "three-chickens",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/471.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "angry-snake-io",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/472.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "block-blaster-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/473.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hidden-objects-island",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/474.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sokoban-push-the-box",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/475.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "level-eaten",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/476.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pushio",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/477.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "travel-with-me-asmr-edition",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/478.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "hungry-noob-cafe-simulator",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/479.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "onu-live",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/480.webp",
+    "genre": "Cards, Strategy"
+  },
+  {
+    "id": "shelter-security-gatekeeper-simulator",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/481.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "noob-saving-friends",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/482.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "zoo-anomaly-simulation",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/483.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "clash-run",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/484.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "angry-flappy",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/485.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "buckshot-roulette",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/486.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "parkour-block-6",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/487.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "crazy-traffic-control",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/488.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "fashion-dye-pro",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/489.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "mine-slash",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/490.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "blocops",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/491.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fruit-merge-juicy-drop-game",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/492.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "stickman-gun-shooter",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/493.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "butterfly-triple",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/494.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hexa-go",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/495.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dualight-a-reflected-game",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/496.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "vault-breaker",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/497.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "legend-of-dragon-hunt",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/498.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "merge-rush-z",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/499.webp",
+    "genre": "Adventure, Merge"
+  },
+  {
+    "id": "winter-hexa-stack",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/500.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cubica",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/501.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bomber-friends",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/502.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "match-find-3d",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/503.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "code-maze",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/504.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "super-sniper-missions",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/505.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "the-survey",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/506.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "leap-of-life",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/507.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "12-in-1-solitaire",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/508.webp",
+    "genre": "Cards, Strategy"
+  },
+  {
+    "id": "superhero-transform-change-race",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/509.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "mech-monster-arena",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/510.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "stickman-brawler",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/511.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "police-station",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/512.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "rope-sorting",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/513.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fishing-life",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/514.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "royal-rebellion-punk-magic",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/515.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "bus-collect",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/516.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "monster-vs-zombie",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/517.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "wolf-life-simulator",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/518.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "snakelandsio",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/519.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "capybara-block-blast",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/520.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tile-connect-pair-match-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/521.webp",
+    "genre": "Puzzle, .IO"
+  },
+  {
+    "id": "arrow-escape-master",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/522.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "turret-gunner",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/523.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "agent-squad",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/524.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "frogio",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/525.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "battletabs",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/526.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "destruction-of-stickman-zombie",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/527.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "jennys-math-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/528.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "bombaman-3d",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/529.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "panda-mahjong-classic",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/530.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "pizza-tycoon",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/531.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bolts-and-nuts-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/532.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "magic-forest-merge-the-secrets",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/533.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "witch-fairy-bff",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/534.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "train-master",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/535.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tile-hex-world-red-vs-blue",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/536.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "word-search-with-hints",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/537.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "animals-merge",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/538.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hammer-mastercraft-destroy",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/539.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "flow-block",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/540.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "graduation-makeup-trends",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/541.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "lost-things-hidden-objects",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/542.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "my-dogy-virtual-pet",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/543.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "merge-blocks-2048-style",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/544.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "broomcraft-mystic-evasion",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/545.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "path-ice",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/546.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pottery-master",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/547.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "lollipop-stack-run",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/548.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "emergency-jam",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/549.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cat-escape-hide-and-seek",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/550.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dusty-maze-hunter",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/551.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "animal-block-pop-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/552.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "fidget-trading-card-toy",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/553.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "zip-zap",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/554.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mobile-phone-case-diy",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/555.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "dice-fusion",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/556.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "crazy-traffic-racer",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/557.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "happy-monsters-2",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/558.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "obby-dead-river",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/559.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "toilet-rush",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/560.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "idle-vlogger-simulator",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/561.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "earwax-clinic",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/562.webp",
+    "genre": "Care, Simulation"
+  },
+  {
+    "id": "formula-racing-games-car-game",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/563.webp",
+    "genre": "Sports, .IO"
+  },
+  {
+    "id": "enchanted-easter-adventure",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/564.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "dolphin-dash",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/565.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "toco-teens-halloween-party",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/566.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "clash-crowd-game",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/567.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "obby-gym-simulator-escape",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/568.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "everything-is-in-place-rare-finds",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/569.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pocket-parking",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/570.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "colorwarsio",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/571.webp",
+    "genre": "Shooter, .IO"
+  },
+  {
+    "id": "shipbuilding-tycoon",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/572.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "color-water-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/573.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "merge-galaxy",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/574.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "feet-doctor-urgency-care",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/575.webp",
+    "genre": "Care, Simulation"
+  },
+  {
+    "id": "chill-clicker",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/576.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "going-balls-3d",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/577.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sugar-pop-land",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/578.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "sort-game-toy-sort",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/579.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "3d-super-rolling-ball-race",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/580.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "uncle-hit-punch-the-dummy",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/581.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "jelly-block-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/582.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cat-pancake-diner",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/583.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "slide-rabbit",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/584.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "school-love-story-1",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/585.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "lunaar-org",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/586.webp",
+    "genre": "Unblocked, WebGame, Github.io, 3kh0, 3kh0 Games"
+  },
+  {
+    "id": "boxteria",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/587.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "true-love-calculator-nzw",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/588.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "my-horse-is-amazing",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/589.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "x-to-y-almost-impossible",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/590.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "spin-thru",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/591.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "quiz-master",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/592.webp",
+    "genre": "Casual, Quiz"
+  },
+  {
+    "id": "athena-match",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/593.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "drawing-squares",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/594.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "gal-sliding-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/595.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "timewarriors",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/596.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "brainrot-world-holeio",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/597.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "holiday-hex-sort",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/598.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "avatar-world-secrets",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/599.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cars-derby-arena",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/600.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "smartle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/601.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "tap-it-away-3d",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/602.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "block-digger",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/603.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "my-perfect-year-planner",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/604.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "human-leap-evolution",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/605.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "world-flags-trivia",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/606.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "nugget-man-survival-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/607.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "fruit-match-juicy-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/608.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "obby-draw-to-escape",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/609.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "serious-bro",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/610.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "mojicon-fruit-connect",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/611.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "frost-defense",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/612.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "uno-online",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/613.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "two-stunt-supercars",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/614.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "heat-incremental",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/615.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dta-2-maniac",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/616.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "memoji",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/617.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "slithoria",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/618.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "turbo-race",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/619.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "the-road-home-granny-escape",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/620.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "boyfriend-for-hire",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/621.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bbq-sort-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/622.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "superhero-phone-simulator",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/623.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "crush-the-eggs",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/624.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hide-and-seek-blue-monster",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/625.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "gym-simulator-tycoon",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/626.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "snake-2048io",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/627.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "shadow-stickman-fight",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/628.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "obby-massive-attack",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/629.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "children-happy-farm-dudu",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/630.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "wood-nuts-master-screw-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/631.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "car-out-jam",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/632.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "card-clash-battle-arena",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/633.webp",
+    "genre": "Battle, Cards"
+  },
+  {
+    "id": "idle-barber-shop",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/634.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "pyramidz2",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/635.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "omg-word-sushi",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/636.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sticker-puzzle-book",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/637.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gt-cars-mega-ramps",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/638.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "lights-out",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/639.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "animal-transform-race",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/640.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "boost-your-brain",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/641.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cannon-shooter",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/642.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "bubble-plopper",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/643.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "trial-xtreme",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/644.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "infinite-craft",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/645.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "idle-landmark-builder",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/646.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "bubble-shooter-pirate-treasures",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/647.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "car-park-simulator",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/648.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "sprunki-mini-games",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/649.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "candy-chain-master",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/650.webp",
+    "genre": "Agility, Match-3"
+  },
+  {
+    "id": "slap-man",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/651.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pop-star",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/652.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mini-scrapbook-paper",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/653.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "candy-smash",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/654.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "2048-block-fusion",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/655.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mahjong-tile-club",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/656.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "triple-tile-twister-match-game",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/657.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mahjong-cute-tiles",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/658.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "italian-brainrot-clicker",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/659.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "age-of-apes-run",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/660.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "spooky-link",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/661.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "stickman-the-flash",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/662.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "cut-in-half",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/663.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fishing-bear",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/664.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "eastern-star-vs-city-style-icon",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/665.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "color-ring-sorting-match",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/666.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "save-stranding-fish",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/667.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "caterfall-2048",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/668.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "land-cruiser-offroad-driver",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/669.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "seafaring-memory-challenge",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/670.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "word-search-universe-easter",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/671.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "bolts",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/672.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "life-clicker",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/673.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "gear-wars",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/674.webp",
+    "genre": "Strategy, Merge"
+  },
+  {
+    "id": "koko-loco-block-blast",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/675.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "real-car-parking-simulator",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/676.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "zombie-siegeio",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/677.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "escape-from-tung-tung-sahur",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/678.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "tile-fruits",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/679.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "snowflight",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/680.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "chicken-jump-a-tap-challenge",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/681.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "countryside-driving-quest",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/682.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "age-of-zombies",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/683.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "checkers-deluxe-edition",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/684.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "merge-archer-defense",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/685.webp",
+    "genre": "Strategy, Merge"
+  },
+  {
+    "id": "strike-breakout",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/686.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "backgammon-deluxe-edition",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/687.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "brainrot-evolution-game",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/688.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "coin-blitz",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/689.webp",
+    "genre": "Shooter, Strategy"
+  },
+  {
+    "id": "save-baby-capybaras-pull-pin",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/690.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "up-hero",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/691.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "roof-car-stunt",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/692.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "cyberpunk-city-fashion",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/693.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "color-nuts",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/694.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "park-me-draw-path",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/695.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stardom-alt-girls-fashion-duel",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/696.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "stick-man-battle-fighting",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/697.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "candy-color-sort-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/698.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "prinxy-winterella",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/699.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "suv-traffic-racer",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/700.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "last-play-ragdoll-sandbox-kqb",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/701.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "shark-chomp-chase",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/702.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "back-to-school-uniforms-edition",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/703.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "dynamons-connect",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/704.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "v-and-n-pizza-cooking-game",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/705.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "merge-tower-hero",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/706.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "dreamy-home",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/707.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "animal-klotski",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/708.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "racing-car-destroying-zombie",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/709.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "animal-in-rails",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/710.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "high-heel-design",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/711.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stick-rope-hero",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/712.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "vortex-ball",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/713.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "candy-battle-sweet-survivors",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/714.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "brawl-stars",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/715.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "bubble-mania-shooter",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/716.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "bell-madness",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/717.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "body-care-simulator",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/718.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "jumping-fish-ragdoll-3d",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/719.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "try-to-count-the-boxes-brain-training",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/720.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "woodoku-block-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/721.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "kingdom-match",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/722.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "incoword",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/723.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "the-counterfeit-bank",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/724.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "smashdoll",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/725.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "battle-island-2",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/726.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "gun-shooting-games-sniper-3d",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/727.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "pyramidz",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/728.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "top-hog",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/729.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "last-to-leave-circle-obby",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/730.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "evermatch",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/731.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "biking-extreme-3d",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/732.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "cubes-2048io",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/733.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "war-lands",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/734.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "traffic-escape-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/735.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "king-of-crabs",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/736.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "sprunki-coloring-book",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/737.webp",
+    "genre": "Art, Educational"
+  },
+  {
+    "id": "monster-school-vs-siren-head",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/738.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "solitaire-farm-seasons-4",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/739.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "puzzle-fever",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/740.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "icolorcoin-sort-puzzle",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/741.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "merge-master-skibidi-bop",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/742.webp",
+    "genre": "Battle, Merge"
+  },
+  {
+    "id": "annas-story-dress-up-diy",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/743.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "save-her-tour",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/744.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "barry-prison-hide-and-seek",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/745.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "slope-emoji-2",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/746.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "dynamons-10",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/747.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "microplastics-feeding",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/748.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "meow-block-color-collect",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/749.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "picture-puzzles",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/750.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tank-battleio",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/751.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "mobile-phone-case-design-diy",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/752.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pretty-sheep-run",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/753.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "food-truck-chef",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/754.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-flowers",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/755.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "coe-snake",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/756.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "gluttony",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/757.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "zombie-driver",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/758.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "real-drive-3d",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/759.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "love-archer",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/760.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hotel-manager",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/761.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "cyber-monday",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/762.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "paperwario",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/763.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "word-scramble-family-tales",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/764.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tricky-life",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/765.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cleaning-princess",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/766.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "obby-cards-the-legend-hunt",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/767.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "house-deep-clean-sim",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/768.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "water-dig-rescue",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/769.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hill-climb-truck-transform-adventure",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/770.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "paws-off-my-clues",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/771.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "codequest",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/772.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cat-evolution",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/773.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "heroball-adventures-2",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/774.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "popcorn-fun-factory",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/775.webp",
+    "genre": "Cooking, Casual"
+  },
+  {
+    "id": "paw-clash",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/776.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "lovie-chics-spring-break-fashion",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/777.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "dragon-joust",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/778.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dungeons-n-ducks",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/779.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "college-girls-team-makeover",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/780.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "warcall-io",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/781.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "foot-chinko-russia-2018",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/782.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "foxy-eco-sort",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/783.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "war-robots-battles",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/784.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "planetarium-2",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/785.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "papas-burger-cook",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/786.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "santa-vs-skritch",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/787.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "traffic-light-simulator-3d",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/788.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "robby-bomberman",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/789.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "gladiators-merge-and-fight",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/790.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "cube-in-cube",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/791.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "plants-warfare",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/792.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "marble-run-ultimate-race",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/793.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "palm-island-solitaire",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/794.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "garden-guardians",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/795.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cashier-game",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/796.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "football-penalty-2026",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/797.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "dino-simulator-city-attack",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/798.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "happy-fruit-link",
+    "thumbnail": "https://PixelArcadezGame.github.io/images/799.webp",
+    "genre": "Mahjong & Connect"
+  }
+]
